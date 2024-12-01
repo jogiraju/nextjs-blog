@@ -25,8 +25,13 @@ a {
 * {
   box-sizing: border-box;
 }
-
+/*The box-sizing property allows us to include the padding and border in an element's total width and height.*/
 img {
   max-width: 100%;
   height: auto;
+}
+
+blue {
+  color: blue;
+  margin: 2rem;
 }
